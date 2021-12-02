@@ -1,7 +1,7 @@
 # audio_slider
 
 A new flutter plugin project.
-![image1](./151638413479_.pic.jpg) ![image2](./161638413488_.pic_hd.jpg)
+![image1](./151638413479_.pic.jpg){:height="50%" width="50%"}![image2](./161638413488_.pic_hd.jpg){:height="50%" width="50%"}
 ## Getting Started
 
 This project is a starting point for a Flutter
